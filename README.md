@@ -1,4 +1,4 @@
-# My First Project
+# My Learning Journey
 
 This is my first repository in github. Here all the projects are from different people's tutorials, so nothing is exclusive here...
 
